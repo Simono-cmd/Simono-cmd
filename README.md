@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Szymon, currently an IT student with passion for technology <br/>
+## 👋 Hi, I'm Szymon, currently an IT student with passion for technology <br/>
 <p style="margin-bottom:10px;">🇵🇱 I live and study in Warsaw, Poland <br/></p>
 <p style="margin-bottom:10px;">💻The languages I know are mainly Java, C++, C#, C, SQL and some experience in frontend: HTML, CSS, Javascript <br/></p>
 <p style="margin-bottom:10px;">🎨Among my personal projects are some small apps (mainly Java) as well as practical work with microcontrollers (a.o. Arduino) <br/></p>
