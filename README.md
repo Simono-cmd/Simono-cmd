@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Szymon, currently an IT student with passion for technology <br/>
-🇵🇱 I live and study in Warsaw, Poland <br/>
-💻The languages I know are mainly Java, C++, C#, C, SQL and some experience in frontend: HTML, CSS, Javascript <br/>
-🎨Among my personal projects are some small apps (mainly Java) as well as practical work with microcontrollers (a.o. Arduino) <br/>
-🌱I'm still learning Python and developing my knowledge in AI <br/>
-🎹Apart from programming and technology, my interests consist of playing instruments and doing creative work <br/>
+<p style="margin-bottom:10px;">🇵🇱 I live and study in Warsaw, Poland <br/></p>
+<p style="margin-bottom:10px;">💻The languages I know are mainly Java, C++, C#, C, SQL and some experience in frontend: HTML, CSS, Javascript <br/></p>
+<p style="margin-bottom:10px;">🎨Among my personal projects are some small apps (mainly Java) as well as practical work with microcontrollers (a.o. Arduino) <br/></p>
+<p style="margin-bottom:10px;">🌱I'm still learning Python and developing my knowledge in AI <br/></p>
+<p style="margin-bottom:10px;">🎹Apart from programming and technology, my interests consist of playing instruments and doing creative work <br/></p>
 <br/>
 <img src="https://github.com/user-attachments/assets/4d2f0b31-7e47-4515-810b-d7a44f7fe661" alt="Diagram ER" width="70" height="70" style="margin-right:20px;">
 <img src="https://github.com/user-attachments/assets/09cbd8ba-90f8-4143-8d14-3a1caebcc5f9" alt="Diagram ER" width="70" height="70" style="margin-right:20px;">
