@@ -4,4 +4,4 @@
 🎨Among my personal projects are some small apps (mainly Java) as well as practical work with microcontrollers (a.o. Arduino) <br/>
 🌱I'm still learning Python and developing my knowledge in AI <br/>
 🎹Apart from programming and technology, my interests consist of playing instruments and doing creative work <br/>
-![Python-logo-notext svg](https://github.com/user-attachments/assets/4d2f0b31-7e47-4515-810b-d7a44f7fe661)
+<img src="https://github.com/user-attachments/assets/4d2f0b31-7e47-4515-810b-d7a44f7fe661" alt="Diagram ER" width="70" height="70">
