@@ -5,11 +5,12 @@
 <p style="margin-bottom:10px;">🌱I'm still learning Python and developing my knowledge in AI <br/></p>
 <p style="margin-bottom:10px;">🎹Apart from programming and technology, my interests consist of playing instruments and doing creative work <br/></p>
 <br/>
-<img src="https://github.com/user-attachments/assets/4d2f0b31-7e47-4515-810b-d7a44f7fe661" width="70" height="70" style="margin:10px;">
+<p><img src="https://github.com/user-attachments/assets/4d2f0b31-7e47-4515-810b-d7a44f7fe661" width="70" height="70" style="margin:10px;">
 <img src="https://github.com/user-attachments/assets/09cbd8ba-90f8-4143-8d14-3a1caebcc5f9" width="70" height="70" style="margin:10px;">
 <img src="https://github.com/user-attachments/assets/1eed5910-0f0b-49ef-a282-7b77f2cfd2a5" width="70" height="70" style="margin:10px;">
 <img src="https://github.com/user-attachments/assets/6e69c5d6-5569-4911-a665-7b54720c5816" width="70" height="70" style="margin:10px;">
 <img src="https://github.com/user-attachments/assets/2011d576-ab6a-40d6-8aa1-32ec00c2f719" width="70" height="70" style="margin:10px;">
-<img src="https://github.com/user-attachments/assets/39ee2706-e424-4cfd-a384-c2e8ecfc13d6" width="70" height="70" style="margin:10px;">
+<img src="https://github.com/user-attachments/assets/39ee2706-e424-4cfd-a384-c2e8ecfc13d6" width="70" height="70" style="margin:10px;"></p>
+
 
 
